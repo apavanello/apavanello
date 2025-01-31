@@ -5,7 +5,7 @@
 - 🌱 My name is Alexandre, I am Brazilian
 - ⚡ I work as SRE @ Itau
 - 😄 I know a little bit of Golang, Python and some Devops tools like Terraform, Ansible, etc
-- 💖 Goals: Be better at Golang and learn some software architecture 
+- 💖 Goals: Be better at Golang, start with Rust and learn some software architecture 
 - 🎓 Computer and Communication Network Technologist and "maybe" a future Data Scientist Bachelor's Degree
 - 🔥 Love to code for fun
 
